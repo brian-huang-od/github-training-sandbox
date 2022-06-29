@@ -1,1 +1,6 @@
 Initial Commit
+
+Feature blah
+Bug fix Y
+Refactor Z
+Documented foo
